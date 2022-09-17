@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, my name is Andrey
+#### I am Statistics and Data Science student
+I have an analytical profile and I am enthusiastic about the data area.
 
-<!--
-**andreyinacio/andreyinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm graduating with a bachelor's degree in Statistics and Data Science and I'm looking for a job in the area.
 
-Here are some ideas to get you started:
+I have knowledge of:
+- Statistics: Descriptive and predictive analysis, statistical models, data mining, data visualization, dashboard creation, and other analytical techniques;
+- Machine Learning: Supervised and unsupervised learning;
+- Programming languages: Python, R and SQL;
+- Tools: Power BI, Excel and Google Sheets.
+ 
+I have academic experience with projects in the data area and I'm passing them to github little by little.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON | R | SQL | POWER BI | EXCEL
+
+I'm currently working on final paper for degree in Statistics. 
