@@ -12,6 +12,4 @@ I have knowledge of:
  
 I have academic experience with projects in the data area and I'm passing them to github little by little.
 
-Skills: PYTHON | R | SQL | POWER BI | EXCEL
-
 I'm currently working on final paper for degree in Statistics. 
