@@ -1,8 +1,8 @@
-### Hello, my name is Andrey
+### Hello, I'm Andrey
 #### I'm Statistics and Data Science student
 I have an analytical profile and I am enthusiastic about the data area.
 
-I'm looking for a job in the Statistics and Data Science area.
+I'm looking for a job in Data Science area.
 
 I have knowledge of:
 - Statistics: Descriptive and predictive analysis, statistical models, data mining, data visualization, dashboard creation, and other analytical techniques;
